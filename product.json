@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Apple iPhone 15 Pro 1TB",
+        "price": 54400,
+        "image": "/img/1.png"
+    },
+    {
+        "id": 2,
+        "name": "Apple iPhone 15 Pro 512GB",
+        "price": 47400,
+        "image": "/img/1.png"
+    },
+    {
+        "id": 3,
+        "name": "Apple iPhone 15 Pro 256GB",
+        "price": 42400,
+        "image": "/img/1.png"
+    },
+    {
+        "id": 4,
+        "name": "Apple iPhone 15 512GB",
+        "price": 39400,
+        "image": "/img/1.png"
+    },
+    {
+        "id": 5,
+        "name": "Apple iPhone 15 256GB",
+        "price": 34400,
+        "image": "/img/1.png"
+    },
+    {
+        "id": 6,
+        "name": "Apple iPhone 14 Pro Max 1TB",
+        "price": 53400,
+        "image": "/img/2.png"
+    },
+    {
+        "id": 7,
+        "name": "Apple iPhone 14 Pro Max 512GB",
+        "price": 47400,
+        "image": "/img/2.png"
+    },
+    {
+        "id": 8,
+        "name": "Apple iPhone 14 Pro Max 256GB",
+        "price": 42400,
+        "image": "/img/2.png"
+    },
+    {
+        "id": 9,
+        "name": "Apple iPhone 14 Pro 128GB",
+        "price": 38400,
+        "image": "/img/2.png"
+    },
+    {
+        "id": 10,
+        "name": "Apple iPhone 13 128GB",
+        "price": 25900,
+        "image": "/img/3.png"
+    },
+    {
+        "id": 11,
+        "name": "Apple iPhone 13 Mini 256GB",
+        "price": 31900,
+        "image": "/img/3.png"
+    }
+]
